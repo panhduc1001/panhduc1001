@@ -15,7 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- CS Graduate @ [**Queensland University of Technology**] 
-- Former Software Engineer @ [**Volvo Group Australia**] 
-- Former Software Engineer @ [**NCS Next Australia**]  
-- Former Software Engineer @ [**Planté**] 
+- 2+ years experience Software Engineer
+- CS Graduate @ **Queensland University of Technology**
+- Former Software Engineer @ **Volvo Group Australia**
+- Former Software Engineer @ **NCS Next Australia**
+- Former Software Engineer @ **Planté**
