@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-:shipit: CS @ [**Queensland University of Technology**]
-:shipit: Former Software Engineer @ [**Volvo Group Australia**]
-:shipit: Former Software Engineer @ [**NCS Next Australia**] 
-:shipit: Former Software Engineer @ [**Planté**]
+:shipit: CS @ [**Queensland University of Technology**] 
+:shipit: Former Software Engineer @ [**Volvo Group Australia**] 
+:shipit: Former Software Engineer @ [**NCS Next Australia**]  
+:shipit: Former Software Engineer @ [**Planté**] 
