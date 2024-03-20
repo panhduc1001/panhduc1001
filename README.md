@@ -19,4 +19,5 @@ Here are some ideas to get you started:
 - CS Graduate @ **Queensland University of Technology**
 - Former Software Engineer @ **Volvo Group Australia**
 - Former Software Engineer @ **NCS Next Australia**
+- Former Software Engineer @ **Jung Talents**
 - Former Software Engineer @ **Planté**
