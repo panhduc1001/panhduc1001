@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 2+ years experience Software Engineer
+- 2+ years experience Software Developer
 - CS Graduate @ **Queensland University of Technology**
-- Former Software Engineer @ **Volvo Group Australia**
-- Former Software Engineer @ **NCS Next Australia**
-- Former Software Engineer @ **Jung Talents**
-- Former Software Engineer @ **Planté**
+- Former Software Developer @ **Volvo Group Australia**
+- Former Software Developer @ **NCS Next Australia**
+- Former Software Developer @ **Jung Talents**
+- Former Software Developer @ **Planté**
